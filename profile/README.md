@@ -7,4 +7,4 @@ Dynamic Rhythm is a customizable metronome app that allows you to continuously p
 
 ## Use:
 
-Dynamic Rhythm is available on the [Google Play Store](https://dynamicrhythm.vercel.app/) and the [Web](https://dynamicrhythm.vercel.app/).
+Dynamic Rhythm is available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.sameerdalal.dynamicrhythm&pcampaignid=web_share) and the [Web](https://dynamicrhythm.vercel.app/).
